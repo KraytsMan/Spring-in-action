@@ -1,0 +1,2 @@
+rootProject.name = 'Spring-in-action'
+include 'wiring-beans'
